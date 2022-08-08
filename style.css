@@ -22,3 +22,8 @@ body {
     margin: 30px 50px;
     justify-content: center;
 }
+
+.counter {
+    margin-top: 10px;
+    font-size: 60px;
+}
